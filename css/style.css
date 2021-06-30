@@ -1,13 +1,16 @@
 body {
     color: white;
 }
+section {
+    margin-bottom: 10px;
+}
 header h1 {
     color: black;
 }
 .blue {
     height: 50px;
     background-color: blue;
-    line-height: 50px;
+    line-height: 30px;
     text-align: center;
     border: 1px solid white;
     padding: 10px;
